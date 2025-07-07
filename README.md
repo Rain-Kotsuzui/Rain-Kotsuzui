@@ -6,7 +6,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Rain-Kotsuzui&show_icons=true&theme=onedark)
 
 ## 📚 Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rain-Kotsuzui)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rain-Kotsuzui&theme=onedark)
 
 ## 📞 Contact
 - Email: [ahxbxa39@gmail.com](mailto:ahxbxa39@gmail.com)
